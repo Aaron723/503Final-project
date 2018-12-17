@@ -1,0 +1,6 @@
+Event     Company Symbol      Number    Price     Total value    Time      
+Buy       GOOG                1         $569.96   $569.96        03:20:30  
+Buy       FRE                 300       $2.14     $642.00        03:20:39  
+Buy       AIG                 10        $32.10    $321.00        03:21:15  
+Sell      FRE                 50        $1.14     $57.00         03:21:43  
+Sell      AIG                 5         $32.10    $160.50        03:24:06  

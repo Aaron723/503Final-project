@@ -1,0 +1,25 @@
+﻿  Account.cpp
+  BankAccount.cpp
+  StockAccount.cpp
+d:\chronedownload\rutgers lessons\finalproject2\finalproject2\stockaccount.cpp(52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\chronedownload\rutgers lessons\finalproject2\finalproject2\stockaccount.cpp(132): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\chronedownload\rutgers lessons\finalproject2\finalproject2\stockaccount.cpp(140): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\chronedownload\rutgers lessons\finalproject2\finalproject2\stockaccount.cpp(221): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\chronedownload\rutgers lessons\finalproject2\finalproject2\stockaccount.cpp(244): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\chronedownload\rutgers lessons\finalproject2\finalproject2\stockaccount.cpp(252): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  fileReadWrite.cpp
+d:\chronedownload\rutgers lessons\finalproject2\finalproject2\filereadwrite.cpp(155): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\chronedownload\rutgers lessons\finalproject2\finalproject2\filereadwrite.cpp(311): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+fileReadWrite.obj : error LNK2019: 无法解析的外部符号 _mxGetPr，该符号在函数 "public: void __thiscall iofile::DrawGraph(void)" (?DrawGraph@iofile@@QAEXXZ) 中被引用
+fileReadWrite.obj : error LNK2019: 无法解析的外部符号 _mxDestroyArray，该符号在函数 "public: void __thiscall iofile::DrawGraph(void)" (?DrawGraph@iofile@@QAEXXZ) 中被引用
+fileReadWrite.obj : error LNK2019: 无法解析的外部符号 _mxCreateDoubleMatrix_730，该符号在函数 "public: void __thiscall iofile::DrawGraph(void)" (?DrawGraph@iofile@@QAEXXZ) 中被引用
+fileReadWrite.obj : error LNK2019: 无法解析的外部符号 _engEvalString，该符号在函数 "public: void __thiscall iofile::DrawGraph(void)" (?DrawGraph@iofile@@QAEXXZ) 中被引用
+fileReadWrite.obj : error LNK2019: 无法解析的外部符号 _engOpen，该符号在函数 "public: void __thiscall iofile::DrawGraph(void)" (?DrawGraph@iofile@@QAEXXZ) 中被引用
+fileReadWrite.obj : error LNK2019: 无法解析的外部符号 _engClose，该符号在函数 "public: void __thiscall iofile::DrawGraph(void)" (?DrawGraph@iofile@@QAEXXZ) 中被引用
+fileReadWrite.obj : error LNK2019: 无法解析的外部符号 _engPutVariable，该符号在函数 "public: void __thiscall iofile::DrawGraph(void)" (?DrawGraph@iofile@@QAEXXZ) 中被引用
+D:\Soft\extern\lib\win64\microsoft\libmx.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Soft\extern\lib\win64\microsoft\libmex.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Soft\extern\lib\win64\microsoft\libeng.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\ChroneDownload\Rutgers lessons\finalProject2\Debug\finalProject2.exe : fatal error LNK1120: 7 个无法解析的外部命令
